@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag MK</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN | django developer from India</h3>
 
 <p align="left"> <img src="	https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="anurag-m-k" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anurag-M-K?tab=repositories](https://github.com/Anurag-M-K?tab=repositories)
 
-- 📫 How to reach me **anuragmk10@gmail.com**
+- 📫 How to reach me **https://20anurag-m-k-04.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
